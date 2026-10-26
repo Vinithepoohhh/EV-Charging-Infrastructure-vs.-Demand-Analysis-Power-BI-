@@ -59,4 +59,6 @@ Power BI Desktop, Power Query, DAX
 
 ## Author
 
-[Your name](https://www.linkedin.com/in/your-profile)
+www.linkedin.com/in/vinit-yadav69
+
+
